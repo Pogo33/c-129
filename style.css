@@ -1,0 +1,32 @@
+
+
+
+.heading{
+    box-shadow: 5px 5px 5px grey;
+    width:100%;
+    margin-top: 20px;
+    background-color: bisque;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif}
+ 
+    
+
+#song_name{
+text-align: center;
+border-radius: 5px;
+border-width: 1px;
+border-color:aquamarine;
+box-shadow: 10px 10px 10px gray;
+padding:20px;
+}
+body{
+    background-size:cover;
+    background-repeat:none;
+
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid rgb(221, 93, 93);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
